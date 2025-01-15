@@ -31,10 +31,6 @@ The frontend for the Invoice Project is organized into modular pages, each desig
 
 ---
 
-Here’s the updated **Dashboard Overview** section in the **`pages.md`** document, incorporating your additional requirements:
-
----
-
 ### **Dashboard Pages**
 
 - **Path**: `/dashboard`
